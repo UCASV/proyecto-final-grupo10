@@ -6965,11 +6965,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ricar\\OneDrive\\Documentos\\Universidad\\POO\\Proyecto\\Proyecto p5\\Project\\Project.csproj",
+      "projectUniqueName": "C:\\Users\\ricar\\OneDrive\\Documentos\\Universidad\\POO\\Proyecto\\proyecto-final-grupo10\\Project\\Project.csproj",
       "projectName": "Project",
-      "projectPath": "C:\\Users\\ricar\\OneDrive\\Documentos\\Universidad\\POO\\Proyecto\\Proyecto p5\\Project\\Project.csproj",
+      "projectPath": "C:\\Users\\ricar\\OneDrive\\Documentos\\Universidad\\POO\\Proyecto\\proyecto-final-grupo10\\Project\\Project.csproj",
       "packagesPath": "C:\\Users\\ricar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ricar\\OneDrive\\Documentos\\Universidad\\POO\\Proyecto\\Proyecto p5\\Project\\obj\\",
+      "outputPath": "C:\\Users\\ricar\\OneDrive\\Documentos\\Universidad\\POO\\Proyecto\\proyecto-final-grupo10\\Project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ricar\\AppData\\Roaming\\NuGet\\NuGet.Config",
