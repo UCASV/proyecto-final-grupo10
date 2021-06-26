@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cqrbUHYeJ/OjN4NQR4tKkprgwZg8r72FTbVaLxMJ0RGGvkiLHN89+lGpyUoLRtYMT4L5vJ5AGAa+brYbQpDcCA==",
+  "dgSpecHash": "8+vy6jrRrPVeSDylx9QRRzN5LH2hRH5asIk99CvH8Wip2wrdrDKJLJq58TzRG1a1c0v9zYMYM+8ByysinAZcVQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ricar\\OneDrive\\Documentos\\Universidad\\POO\\Proyecto\\Proyecto p5\\Project\\Project.csproj",
+  "projectFilePath": "C:\\Users\\ricar\\OneDrive\\Documentos\\Universidad\\POO\\Proyecto\\proyecto-final-grupo10\\Project\\Project.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ricar\\.nuget\\packages\\common.logging\\3.4.1\\common.logging.3.4.1.nupkg.sha512",
     "C:\\Users\\ricar\\.nuget\\packages\\common.logging.core\\3.4.1\\common.logging.core.3.4.1.nupkg.sha512",
