@@ -30,7 +30,47 @@ Este paquete fue instalado para la generación de los pdf de los ciudadanos.
 ### Instalación
 
 
-Para el uso de este software es necesario tener una base de datos existente para iniciar y este fue implementado con el gestor Sql Server
+Primero abrimos nuestra carpeta “Instalador”
+
+
+![image](https://user-images.githubusercontent.com/54814853/123871255-bb3cb280-d8f0-11eb-8877-7f25d1ca12e4.png)
+
+
+
+Accedemos a nuestra carpeta “Debug”
+
+
+![image](https://user-images.githubusercontent.com/54814853/123871291-c7c10b00-d8f0-11eb-959d-642e435ffec1.png)
+
+
+
+Abrimos el setup del programa
+
+
+![image](https://user-images.githubusercontent.com/54814853/123871318-d3143680-d8f0-11eb-80fc-c111b3ad69e7.png)
+
+
+
+Debemos continuar y seleccionar la opción, solo para este usuario, continuar y aceptar los siguientes formularios
+
+
+![image](https://user-images.githubusercontent.com/54814853/123871342-dc050800-d8f0-11eb-9644-fe1030af2f86.png)
+
+
+
+![image](https://user-images.githubusercontent.com/54814853/123871352-e1fae900-d8f0-11eb-8846-54605d82ebf3.png)
+
+
+
+![image](https://user-images.githubusercontent.com/54814853/123871370-e6bf9d00-d8f0-11eb-898b-937017a13e23.png)
+
+
+
+Para el uso de este software es necesario tener una base de datos existente cuyo nombre es “Project” y tiene los datos básicos para poder iniciar el programa, este es implementado con el gestor Sql Server
+
+
+![image](https://user-images.githubusercontent.com/54814853/123871395-f17a3200-d8f0-11eb-9fb9-2b190da46a31.png)
+
 
 
 ## Manual de usuario
@@ -217,6 +257,13 @@ El programa cerrará esta ventana y se dirigirá al menú principal listo para r
 
 
 ![image](https://user-images.githubusercontent.com/54814853/123568631-f7053a00-d781-11eb-9048-3293af7a3da4.png)
+
+
+-Al momento de hacer el seguimiento de cita y exportar el pdf descargando el programa por medio de instalador este muestra un error que interrumpe el programa, para resolver este problema se debe iniciar el programa por medio del ejecutable
+
+
+![image](https://user-images.githubusercontent.com/54814853/123871591-0c4ca680-d8f1-11eb-9199-e52f68e6ecdf.png)
+
 
 
 
